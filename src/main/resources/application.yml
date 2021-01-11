@@ -1,0 +1,6 @@
+server:
+    port: 9191
+
+kafka:
+   topic1: EmpDetails1
+   topic2: UserDetails1
